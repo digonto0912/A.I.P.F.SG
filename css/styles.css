@@ -1,0 +1,67 @@
+/* corosuel-section */
+.carousel-indicators {
+    margin-bottom: 7rem !important;
+}
+
+/* course started timing */
+.notice {
+    -webkit-transform: translateY(-80px);
+    transform: translateY(-80px);
+}
+
+/* new secrion */
+.course-criterias li svg {
+    background: linear-gradient(75deg,#fc5e51,#f59e75);
+        background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-right: 8px;
+    margin-top: 5px;
+    color: tomato;
+    font-size: 1.4em;
+}
+/* .svg-inline--fa.fa-w-14 {
+    width: 0.875em;
+} */
+
+/* new3 */
+.course-information-component {
+    background-color: #f5f7ff !important;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* new4 */
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.svg-inline--fa {
+    font-size: inherit;
+}
+.frequently-asked-component .frequently-asked-list-component .MuiIconButton-label {
+    font-size: 28px;
+}
+.frequently-asked-list-component .MuiIconButton-label {
+    font-size: 14px;
+}
+.frequently-asked-list-component .MuiButtonBase-root {
+    color: black;
+}
+.MuiIconButton-root {
+    color: rgba(0, 0, 0, 0.54);
+    font-size: 1.5rem;
+    text-align: center;
+}
+.MuiButtonBase-root {
+    color: inherit;
+    cursor: pointer;
+}
+.MuiAccordionSummary-root:hover:not(.Mui-disabled) {
+    cursor: pointer;
+}
+[role="button"] {
+    cursor: pointer;
+}
+.MuiPaper-root {
+    color: rgba(0, 0, 0, 0.87);
+}
